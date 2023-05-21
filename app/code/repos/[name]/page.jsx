@@ -1,7 +1,7 @@
-import { Suspense } from 'react';
-import Link from 'next/link';
-import Repo from '@/app/componets/Repo';
-import RepoDirs from '@/app/componets/RepoDirs';
+import { Suspense } from "react";
+import Link from "next/link";
+import Repo from "@/app/componets/Repo";
+import RepoDirs from "@/app/componets/RepoDirs";
 
 const RepoPage = ({ params: { name } }) => {
   return (
