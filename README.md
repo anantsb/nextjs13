@@ -1,5 +1,3 @@
-<img src="./public/screen.png" width="500">
-
 ## Usage
 
 Install dependencies:
